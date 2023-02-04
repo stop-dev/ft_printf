@@ -1,7 +1,7 @@
 # ft_printf
 There is a library that contains ft_printf(), a function that mimics the original C printf().<br />
 - Implemented types: c, s, p, d, i, u, x, X, %<br />
-- Implemented types -, 0, ., *
+- Implemented options: -, 0, ., *
 
 ## Usage
 Create library: ``make``<br />
