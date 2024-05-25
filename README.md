@@ -34,4 +34,4 @@ Output:
 Hello, World!
 ```
 ## Additional information
-42 is a computer programming school that is entirely free and available to students who are 18-years or older. Its teaching methods are based on peer learning: no teachers, no lectures, fully hands on. The education model focuses on project-based learning and teamwork, rather than theoretical education. There are a lot of campuses all over the world in the 42 NETWORK.
+**_42_** is a computer programming school that is entirely free and available to students who are 18-years or older. Its teaching methods are based on peer learning: no teachers, no lectures, fully hands on. The education model focuses on project-based learning and teamwork, rather than theoretical education. There are a lot of campuses all over the world in the 42 NETWORK.
