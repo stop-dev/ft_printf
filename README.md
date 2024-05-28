@@ -21,11 +21,11 @@ gcc main.c libftprintf.a
 ```
 ### Main example:
 ```c
-#include "printf.h"
+#include "libftprintf.h"
 
 int main()
 {
-      ft_printf("Hello, World!");
+      ft_printf("Hello, World!\n");
       return (0);
 }
 ```
