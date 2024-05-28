@@ -21,7 +21,7 @@ gcc main.c libftprintf.a
 ```
 ### Main example:
 ```c
-#include "ft_printf.h"
+#include "printf.h"
 
 int main()
 {
